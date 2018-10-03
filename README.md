@@ -1,10 +1,15 @@
 # assignment5.1
 
 #1.If Z is norm (mean = 0, sd = 1)
+
 a) Find P(Z > 2.64)
+
 b) Find P(|Z| > 1.39)
+
  ->
+
 a) 0.9958547
+
 b) 0.9177356
 
 
